@@ -42,18 +42,18 @@ iv} Finally, the program prints the values of the global counters to show the ef
 
 (D) Sample Output
 
-Enter number of elements (N): 50
+Enter number of elements (N): 8
 
-Original array: 208 193 607 595 865 956 405 167 889 845 14 594 392 61 365 771 849 292 989 875 813 891 949 362 669 557 885 380 84 771 520 356 52 920 59 976 872 145 733 781 258 482 423 188 647 909 814 725 7 900
+Original array: 408 486 978 897 462 342 656 443
 
 Select Sorting Algorithm:
 1. Bubble
 2. Selection
 3. Insertion
 4. Merge
-Choice: 2
+Choice: 1
 
-Sorted array: 7 14 52 59 61 84 145 167 188 193 208 258 292 356 362 365 380 392 405 423 482 520 557 594 595 607 647 669 725 733 771 771 781 813 814 845 849 865 872 875 885 889 891 900 909 920 949 956 976 989
+Sorted array: 342 408 443 462 486 656 897 978
 
-Total Comparisons: 1225
-Total Swaps/Shifts: 49
+Total Comparisons: 28
+Total Swaps/Shifts: 16
