@@ -85,7 +85,6 @@ int main() {
             else if (current == '/') push(number1 / number2);
         }
     }
-
     printf("Final Math Result: %d\n", pop());
 
     return 0;
