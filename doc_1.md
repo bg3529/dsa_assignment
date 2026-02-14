@@ -14,9 +14,8 @@ i} I used a standard character array called s[100] to act as the stack for this 
 
 ii} To manage the stack, I defined an integer variable t which tracks the top index; it starts at -1 to show the stack is empty.
 
-iii} The structure is designed to only store opening brackets like (, [, or { when they are found in the expression string.
+iii} The structure is designed to only store opening brackets like (, [, or { when they are found in the expression string. 
 
-iv} Using a local array instead of a global one ensures that the stack is fresh for every new expression we test.
 ---------------------------------------------------------------------------------
 (B) Functions
 
