@@ -1,4 +1,4 @@
-Documentation for Question no. 3                                                                                                                                                                          
+Documentation for Question3                                                                                                                                                                          
 Write and Implement the reverse traversal algorithm in the linked list. Write main() to demonstrate the use of the function.
 
 (A) Data Structures Defined

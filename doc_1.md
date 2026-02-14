@@ -1,4 +1,5 @@
 Documentation of Question no 1
+
 Write a program to check if any given mathematical expression has a balanced number of parentheses or not?
 Run the program by testing following expression-
 ⇒ a + (b - c) * (d
@@ -43,4 +44,4 @@ Expression: m + [a - b * (c + d * {m)]
 Status: not balanced
 
 Expression: a + (b - c)
-Status: balanced
+Status: Balanced

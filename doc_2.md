@@ -1,4 +1,5 @@
 Documentation of Question no. 2: 
+
 Write a program to convert an infix mathematical expression to postfix and evaluate it.
 
 
@@ -33,9 +34,13 @@ iv} In the final evaluation part, the program scans the new postfix string. It p
 (D) Sample Output
 
 Enter math expression: 3+(4*2)-5
+
 Postfix string: 342*+5-
+
 Final Math Result: 6
 
 Expression: 2+34
+
 Postfix string: 234+
+
 Final Math Result: 14
