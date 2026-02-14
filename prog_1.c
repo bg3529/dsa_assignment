@@ -49,7 +49,7 @@ int main() {
     for (j = 0; j < 3; j++) {
         printf("Expression: %s\n", data[j]);
         if (check(data[j]) == 1) {
-            printf("Status: balanced\n\n");
+            printf("Status: Balanced\n\n");
         } else {
             printf("Status: not balanced\n\n");
         }
