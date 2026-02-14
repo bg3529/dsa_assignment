@@ -63,7 +63,7 @@ int main() {
 
     printf("Postfix string: %s\n", postfix);
 
-    // --- PART 2: EVALUATE THE POSTFIX ---
+    // evaluating the postfix
     // Resetting top to reuse the same stack for numbers
     top = -1; 
     
