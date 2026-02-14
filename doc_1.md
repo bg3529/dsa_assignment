@@ -1,11 +1,17 @@
 Documentation of Question no 1
 
 Write a program to check if any given mathematical expression has a balanced number of parentheses or not?
+
 Run the program by testing following expression-
+
 ⇒ a + (b - c) * (d
+
 ⇒ m + [a - b * (c + d * {m)]
+
 ⇒ a + (b - c)
+
 Hint: Use stack
+
 
 (A) Data Structures Defined
 
@@ -38,10 +44,15 @@ iv} It calls the check() function and uses an if-else statement to print either 
 (D) Sample Output
 
 Expression: a + (b - c) * (d
+
 Status: not balanced
+
 
 Expression: m + [a - b * (c + d * {m)]
+
 Status: not balanced
 
+
 Expression: a + (b - c)
+
 Status: Balanced
