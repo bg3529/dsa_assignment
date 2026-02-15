@@ -1,4 +1,5 @@
 Documentation for Question No. 7
+
 Given a weighted graph, implement Dijkstra’s algorithm to find the shortest path from a source node to all other nodes.
 
 (A) Data Structures Defined
@@ -34,8 +35,13 @@ iv} The program demonstrates how the algorithm correctly updates distances as it
 (D) Sample Output
 
 Node     Distance
+
 0        0
+
 1        10
+
 2        50
+
 3        30
+
 4        60
