@@ -1,4 +1,4 @@
-Documentation for Question no. 3
+Documentation for Question no. 3                                                                                                                                                                          
 Write and Implement the reverse traversal algorithm in the linked list. Write main() to demonstrate the use of the function.
 
 (A) Data Structures Defined
@@ -32,7 +32,7 @@ iv} Finally, the showBackwards function is called, which uses the power of recur
 (D) Sample Output
 
 Normal order list:
-100 250 475 600 825 
+100 250 475 600 825                                                                                                                                                                                       
 
 Reverse order list:
 825 600 475 250 100 
