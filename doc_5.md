@@ -32,5 +32,7 @@ iii} I then reset the visited array and called the bfs function to show the outp
 iv} I used print labels so anyone running the code can clearly distinguish which traversal method produced which line of output.
 
 (D) Sample Output
+
 DFS Traversal starting from 0: 0 1 3 2 4 
+
 BFS Traversal starting from 0: 0 1 2 3 4 
