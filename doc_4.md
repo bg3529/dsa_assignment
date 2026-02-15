@@ -1,5 +1,7 @@
 Documentation for Question no. 4
+
 How can we implement the doubly linked list using structure? Write a method to insert(after given node) and delete the node in a doubly linked list. Write main() to demonstrate the use of the functions.
+
 
 (A) Data Structures Defined
 
@@ -32,8 +34,13 @@ iv} I used descriptive print statements throughout main to show exactly what is 
 (D) Sample Output
 
 Initial list:
+
 10 -20 -30 -NULL
+
 After inserting 25 after 20:
+
 10 -20 -25 -30 -NULL
+
 After deleting 10 (head node):
+
 20 -25 -30 -NULL
